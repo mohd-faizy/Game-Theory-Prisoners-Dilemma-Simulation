@@ -180,7 +180,7 @@ Final Cumulative Payoffs:
 - The simulation generates **graphs** of cumulative payoffs for each strategy.
 - Example graph from a 100-round game:
 
-![Sample Graph](https://raw.githubusercontent.com/mohd-faizy/learn_python/refs/heads/main/docs/visuals/Grudger_vs_Random.png?token=GHSAT0AAAAAAC4TBXOE426EDPSLRNPWL45UZ35EXYA)
+![Sample Graph](https://github.com/mohd-faizy/Game-Theory-Prisoners-Dilemma-Simulation/blob/main/docs/visuals/Grudger_vs_Random.png?raw=true)
 
 ---
 

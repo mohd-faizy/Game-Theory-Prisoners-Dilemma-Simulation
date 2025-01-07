@@ -1,10 +1,5 @@
 [![author](https://img.shields.io/badge/author-mohd--faizy-red)](https://github.com/mohd-faizy)
-![made-with-Markdown](https://img.shields.io/badge/Made%20with-markdown-blue)
-![Language](https://img.shields.io/github/languages/top/mohd-faizy/Game-Theory-Prisoners-Dilemma-Simulation)
-![Maintained](https://img.shields.io/maintenance/yes/2025)
-![Last Commit](https://img.shields.io/github/last-commit/mohd-faizy/Game-Theory-Prisoners-Dilemma-Simulation)
-[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/mohd-faizy/Game-Theory-Prisoners-Dilemma-Simulation)
-![Size](https://img.shields.io/github/repo-size/mohd-faizy/Game-Theory-Prisoners-Dilemma-Simulation)
+
 
 # Game Theory - Prisoner's Dilemma Simulation
 
@@ -185,7 +180,7 @@ Final Cumulative Payoffs:
 - The simulation generates **graphs** of cumulative payoffs for each strategy.
 - Example graph from a 100-round game:
 
-![Sample Graph](docs\visuals\Grudger_vs_Random.png)
+![Sample Graph](https://raw.githubusercontent.com/mohd-faizy/learn_python/refs/heads/main/docs/visuals/Grudger_vs_Random.png?token=GHSAT0AAAAAAC4TBXOE426EDPSLRNPWL45UZ35EXYA)
 
 ---
 
